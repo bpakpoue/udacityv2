@@ -3,7 +3,7 @@ import time
 import pandas as pd
 import numpy as np
 
-
+### OBJECTIVE OF THIS PROGRAM IS TO COMPUTE STATISTICS ON BIKESHARE IN 3 MAIN CITIES IN USA
 ##############INPUT city
 while True:
 
