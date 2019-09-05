@@ -14,5 +14,4 @@ Project_Bikeshare_US_final_completed.py
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+All the required material can be found at http://www.github.com/bpakpoue/udacityv2
