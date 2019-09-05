@@ -4,7 +4,7 @@ projected created on September 04 2019
 Udacity Github project
 
 ### Description
-Describe what your project is about and what it does
+this project is a requirement for the data science udacity program
 
 ### Files used
 Include the files used
