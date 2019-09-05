@@ -1,8 +1,7 @@
 ### Date created
-Include the date you created this project and README file.
-
+projected created on September 04 2019
 ### Project Title
-Replace the Project Title
+Udacity Github project
 
 ### Description
 Describe what your project is about and what it does
